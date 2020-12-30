@@ -1,2 +1,2 @@
 # hello-world
-Hello to the world.
+Hello world! I am a technical writer.
